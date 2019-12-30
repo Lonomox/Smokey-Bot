@@ -1,0 +1,17 @@
+{
+  "name": "smokey-bot",
+  "version": "0.0.1",
+  "description": "Discord bot for everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lonomox",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "git": "^0.1.5",
+    "npm": "^6.13.4"
+  }
+}
